@@ -9,3 +9,4 @@ configured git hub self hosted runner with git
 updated to git version 2.8 build not starting
 updated to version 2.9 for git
 Installed docker
+changed docker permissions to run without root
