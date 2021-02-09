@@ -11,3 +11,4 @@ updated to version 2.9 for git
 Installed docker
 changed docker permissions to run without root
 updated docker to pull from nexus
+installed as a service
